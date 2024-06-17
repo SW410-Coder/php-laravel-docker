@@ -1,0 +1,191 @@
+body, h1, table, th, td {
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #181818;
+    color: #e0e0e0;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.page-header-wrapper {
+    background-size: cover;
+    background-position: center;
+    padding: 20px 0;
+}
+
+.page-header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+.page-navigation .navbar {
+    justify-content: space-between;
+}
+
+.sub-navigation {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px 0;
+}
+
+.color-accent {
+    color: #f7a400;
+}
+
+.color-muted {
+    color: #aaa;
+}
+
+.page-header {
+    text-align: center;
+}
+
+.page-header img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2em;
+    color: #f7a400;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+select {
+    padding: 5px 10px;
+    background-color: #282828;
+    color: #e0e0e0;
+    border: 1px solid #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    padding: 10px 15px;
+    border: 1px solid #333;
+}
+
+th {
+    background-color: #282828;
+    color: #f7a400;
+}
+
+td {
+    background-color: #202020;
+}
+
+a {
+    color: #f7a400;
+    text-decoration: none;
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: #282828;
+    border: 1px solid #333;
+    transition: background-color 0.3s;
+}
+
+a:hover {
+    background-color: #333;
+}
+
+div {
+    text-align: center;
+}
+
+.rank {
+    font-weight: bold;
+}
+
+.gold {
+    color: gold;
+}
+
+.silver {
+    color: silver;
+}
+
+.bronze {
+    color: #cd7f32;
+}
+
+img {
+    width: 32px;
+    height: 32px;
+}
+
+.arena-filters {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.arena-filters button {
+    padding: 10px 20px;
+    background-color: #282828;
+    color: #e0e0e0;
+    border: 1px solid #333;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.arena-filters button:hover {
+    background-color: #333;
+}
+.page-navigation .navbar {
+    justify-content: space-between;
+}
+
+.container-small {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-nav {
+    list-style-type: none;
+    padding-left: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.nav-item {
+    margin: 0 20px;
+}
+
+.nav-link {
+    padding: 10px 25px;
+    display: block;
+    font-size: 1.2em;
+    transition: background-color 0.3s;
+}
+
+.nav-link:hover {
+    background-color: #333;
+    color: #f7a400;
+}
+.main-content-wrapper {
+    padding: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
