@@ -2,10 +2,10 @@
 
 return [
     'database' => [
-        'host' => 'localhost',
-        'username' => 'strike',
-        'password' => '123',
-        'database' => 'strikepractice',
+        'host' => '213.210.21.13:3306',
+        'username' => 'u2_76RxLFgGmG',
+        'password' => 'Pj7+HdokAUyN@lUC06vhVbu.',
+        'database' => 's2_sprac',
     ],
     'server' => [
         'name' => 'ServerName',
