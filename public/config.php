@@ -8,11 +8,11 @@ return [
         'database' => 's2_sprac',
     ],
     'server' => [
-        'name' => 'ServerName',
-        'url' => 'https://ServerName.net',
-        'store_url' => 'https://store.ServerName.net',
-        'staff_url' => 'https://staff.ServerName.net',
-        'support_url' => 'https://discord.ServerName.net',
+        'name' => 'AIO Practice',
+        'url' => 'https://practice.uoaio.xyz',
+        'store_url' => 'https://uoaio.xyz',
+        'staff_url' => 'https://uoaio.xyz/staff',
+        'support_url' => 'https://uoaio.xyz/discord',
     ],
     'arenas' => [
         'lms' => 'LMS',
